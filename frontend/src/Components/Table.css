@@ -1,0 +1,19 @@
+#srchbartbl{
+    width: 450px;
+    height: 50px;
+    border-color: black;
+    background-color: transparent;
+    border-radius: 20px;
+}
+
+#dtlsbtn{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: black;
+}
+
+#trow{
+    margin-top: 70px;
+    width: 90rem;
+}
